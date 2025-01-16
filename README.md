@@ -9,6 +9,16 @@ Erste Schritte mit reCAPTCHA
 Danach unten auf erstellen klicken
 
 Danach kriegt man die (habs ausgeblendet)
-![image](https://github.com/user-attachments/assets/0fab5612-a5e6-48fe-bd5e-c742ef305c88)
+![image](https://github.com/user-attachments/assets/acb1212a-4d62-4df5-93db-eaa2f6402492)
 
-Frontend-Integration (Register View)
+
+Frontend
+![image](https://github.com/user-attachments/assets/db5ec1df-ed1e-4f1f-9602-a781dd07ce5d)
+
+<img width="1552" alt="Bildschirmfoto 2025-01-16 um 11 42 36" src="https://github.com/user-attachments/assets/22a57d2b-0e0c-4006-b2e2-0770e2607fee" />
+Und danach wird das dann kommen (Roter Border erscheint):
+<img width="341" alt="Bildschirmfoto 2025-01-16 um 11 42 43" src="https://github.com/user-attachments/assets/ae1eaf4c-7191-4bdc-91ae-a8fc429d24b4" />
+
+
+<img width="1552" alt="Bildschirmfoto 2025-01-16 um 11 44 09" src="https://github.com/user-attachments/assets/b143d720-33bb-4d19-884b-c59200a3b8be" />
+<img width="1552" alt="Bildschirmfoto 2025-01-16 um 11 45 14" src="https://github.com/user-attachments/assets/ec8e8e70-b1fd-42e9-90ba-5e16a9db880e" />
