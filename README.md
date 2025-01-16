@@ -8,7 +8,7 @@ Erste Schritte mit reCAPTCHA
 
 Danach unten auf erstellen klicken
 
-Danach kriegt man die 
+Danach kriegt man die (habs ausgeblendet)
 ![image](https://github.com/user-attachments/assets/0fab5612-a5e6-48fe-bd5e-c742ef305c88)
 
 Frontend-Integration (Register View)
