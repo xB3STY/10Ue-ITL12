@@ -22,3 +22,7 @@ Und danach wird das dann kommen (Roter Border erscheint):
 
 <img width="1552" alt="Bildschirmfoto 2025-01-16 um 11 44 09" src="https://github.com/user-attachments/assets/b143d720-33bb-4d19-884b-c59200a3b8be" />
 <img width="1552" alt="Bildschirmfoto 2025-01-16 um 11 45 14" src="https://github.com/user-attachments/assets/ec8e8e70-b1fd-42e9-90ba-5e16a9db880e" />
+
+### **Verknüpfte Dateien**
+- [RegisterController.php](controller/RegisterController.php)
+- [index.php](register/index.php)
