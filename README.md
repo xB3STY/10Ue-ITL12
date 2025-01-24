@@ -26,3 +26,4 @@ Und danach wird das dann kommen (Roter Border erscheint):
 ### **Verknüpfte Dateien**
 - [RegisterController.php](controller/RegisterController.php)
 - [index.php](register/index.php)
+  
